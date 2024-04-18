@@ -1,0 +1,87 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>A Website</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<FONT Color=#0000ff>
+	<h1>What a <em>good</em> website.</h1>
+	<h2>Helpful <strong>reviews</strong></h2>
+	<ul>
+		<li>So amazing! -<em>Time</em></li>
+		<li>Such is heaven. -<em>G. R.</em></li>
+	</ul>
+	<br>
+	<h3>More helpful reviews</h3>
+	<ol>
+		<li>Why does this not cost money to look at? -<em>Dillreviews</em></li>
+		<li>Bigger the New-York! -<em>Aguyfromnewyork</em></li>
+		<li>60/10 -<em>unknown</em></li>
+		<li>Amazing that it hasn't been recognised by professional designers yet! -<em>Govermint</em></li>
+	</ol>
+	
+	<marquee direction="left" scrollamount="100" behaviour="alternate"><a href="https://scratch.mit.edu/projects/615803974/">Scratch</a></marquee>
+	<marquee direction="right" scrollamount="2" behaviour="alternate"><img src="data:image/jpeg;base64,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" width="420" height="420" alt="amogus"></marquee>
+	<marquee direction="right" scrollamount="15" behaviour="alternate"><button type="button"><marquee direction="up" scrollamount="10" behaviour="alternate">/\/\/\/\/\/\<marquee direction="up" scrollamount="5" behaviour="alternate">/\/\/\/\/\/\</marquee></marquee></button></marquee>
+	<FONT Color=#000000>
+	<h4>Never trust buttons.</h4>
+	<button type="button">Hehe</button>
+	 <style>
+    body {
+      background-color: skyblue;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      text-align: center;
+      padding: 20px;
+    }
+
+    .Hehe {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      background-image: url("https://www.istockphoto.com/photos/cookie");
+      background-size: cover;
+      margin: 0 auto;
+    }
+
+    .counter {
+      font-size: 40px;
+      margin: 20px 0;
+    }
+
+    .click-btn {
+      padding: 10px 20px;
+      background-color: #ddd;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+  </style>
+</head> 
+	<div class="container">
+	  <div class="Hehe" id="Hehe"></div>
+	  <p class="counter" id="Hehe-count">0</p>
+	  <button class="click-btn" id="click-btn">Click the Hehe!</button>
+	</div>  
+	  <script>
+    const HeheCountEl = document.getElementById('Hehe-count');
+    const clickBtn = document.getElementById('click-btn');
+    let Hehe = 0;
+
+    clickBtn.addEventListener('click', () => {
+      Hehe++;
+      HeheCountEl.textContent = Hehe;
+    });
+  </script>
+	  
+
+	</body>
+
+
+
+</html>
